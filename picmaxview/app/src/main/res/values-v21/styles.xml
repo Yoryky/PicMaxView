@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="my_progress" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:colorAccent">#777777</item>
+    </style>
+</resources>
